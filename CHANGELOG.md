@@ -1,5 +1,23 @@
 # Changelog
 
+### [1.2.2](https://github.com/googleapis/python-security-private-ca/compare/v1.2.1...v1.2.2) (2022-01-25)
+
+
+### Features
+
+* add api key support ([#172](https://github.com/googleapis/python-security-private-ca/issues/172)) ([672e9b0](https://github.com/googleapis/python-security-private-ca/commit/672e9b0a8c0923afbd9e6e04ca8a4c2b0232a843))
+* **samples:** add subordinate CA samples ([94b6801](https://github.com/googleapis/python-security-private-ca/commit/94b68019a4d9a83dcada4a01fb33599e3f71a283))
+
+
+### Miscellaneous Chores
+
+* release as 1.2.2 ([#170](https://github.com/googleapis/python-security-private-ca/issues/170)) ([ee8694c](https://github.com/googleapis/python-security-private-ca/commit/ee8694cf74fb1a199b7c807f1277f27b3d735ee2))
+
+
+### Documentation
+
+* **samples:** add sample to filter certificates ([#160](https://github.com/googleapis/python-security-private-ca/issues/160)) ([a0ae8b2](https://github.com/googleapis/python-security-private-ca/commit/a0ae8b2c9139bee84c2da645d4456b97066eff74))
+
 ### [1.2.1](https://www.github.com/googleapis/python-security-private-ca/compare/v1.2.0...v1.2.1) (2021-11-02)
 
 
